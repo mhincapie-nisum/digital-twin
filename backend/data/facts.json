@@ -1,0 +1,21 @@
+{
+    "full_name": "Mauricio Hincapié",
+    "name": "Mauroe",
+    "current_role": "Backend Developer",
+    "location": "Medellín",
+    "email": "mhincapie@nisum.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "specialties": [
+      "Your specialty 1",
+      "Your specialty 2",
+      "Your specialty 3"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Electronic Ingenieer",
+        "institution": "Universidad de Antioquia",
+        "year": "2027"
+      }
+    ]
+  }
